@@ -1,4 +1,4 @@
-# api.python.flask.server
+# Api utilizando python.server
 Aplicação web usando python
 
 # Sobre o projeto
