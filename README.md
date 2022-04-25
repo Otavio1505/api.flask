@@ -8,7 +8,7 @@ Aplicação construída em um momento de primeiro contato com Interface de progr
 Inicialmente é declarado um dicionário emprego(nome,sexo,cargo,salario), na qual na geração das URLs é possível pelo sistema de app.route, a filtragem dos dados que serão impressos na interface da url sob o formato JSON.
 
 
-
+https://github.com/Otavio1505/api.python.flask.server/blob/main/LICENSE
 
 # Autor
 Otávio Moraes Braga
